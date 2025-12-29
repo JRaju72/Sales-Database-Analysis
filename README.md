@@ -27,6 +27,11 @@ and product performance.
 - Analyzed month-wise sales growth
 - Ranked customers using window functions
 - Calculated revenue contribution by product
+- Repeat Customers (More than One Purchase)
+- Customers with No Orders (Data Quality Check)
+- Customers Who Purchased All Categories
+- Average Order Value per Customer
+- Customers with More Than 5 Orders
 
 ## 📁 Files in Repository
 - create_tables.sql
